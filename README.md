@@ -1,5 +1,10 @@
 # 💫 About Me:
-[root@emreugur.com.tr]# touch eush35<br>[root@emreugur.com.tr]# nano eush35<br>
+[root@emreugur.com.tr]# echo "Hello everyone, I'm Emre. I develop software for systems depending on the need. I have developed add-ons and designed interfaces in gaming companies for many years. Currently, I am dealing with virtualization technologies, system monitoring, container orchestration and distributed architectures." > eush35.txt
+
+[root@emreugur.com.tr]# dpkg-reconfigure locales
+
+[root@emreugur.com.tr]# echo "Herkese merhaba, ben Emre. İhtiyaca bağlı olarak sistemlere yazılım geliştiriyorum. Uzun yıllar boyunca oyun firmalarında eklenti geliştirdim ve arayüz tasarladım. Şuanda ise sanallaştırma teknolojileri, sistem izleme, konteynır orkestrasyonu ve dağınık mimariler ile uğraşmaktayım." > eush35.txt
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/emreugur.sh) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/emre-u-9ba2b3220) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/eush35) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/eush35) 
